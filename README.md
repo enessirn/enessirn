@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5xc2N2MnRzb2p2andod2o3dWswOHRxNTdnYmtibjJiazNqcTZucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.webp" alt="Banner" width="100%" />
 </p>
 
 ---
@@ -34,12 +34,12 @@
 
 ## 📫 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/enessirn">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="mailto:enessirinbusiness@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://linkedin.com/in/enessirn"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+  <a href="mailto:enessirinbusiness@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 </p>
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
-</p>
+</p> -->
