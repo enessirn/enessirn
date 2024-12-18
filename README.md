@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  🌟 I’m a passionate Full Stack Developer focusing on creating dynamic and scalable web applications.
+  🌟 I’m a web developer.I interested ReactJS & TailwindCSS.
 </p>
 
 <p align="center">
